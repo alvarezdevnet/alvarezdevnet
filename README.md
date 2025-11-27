@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/bannermain.png" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">José Álvarez Domínguez</h1>
 <h3 align="center">Junior SysAdmin | Network Security & Automation</h3>
