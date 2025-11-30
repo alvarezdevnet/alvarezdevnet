@@ -30,13 +30,7 @@ I focus on deep troubleshooting and infrastructure reliability from day one.
 
 ---
 
-### Lab Projects (Learning by Doing)
-
-#### [📂 Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/JAlvarez-NetDev/sovereign-vault)
-**Status:** *Completed & Documented*
-Automated, encrypted hybrid backup infrastructure implementing the 3-2-1 strategy.
-* **Architecture:** Workstation -> **Syncthing** (Local Sync) -> **Raspberry Pi 4** -> **Rclone Crypt** -> **Google Drive**.
-* **Tech Stack:** Docker, Bash Scripting, Linux Cron, Zero-Knowledge Encryption.
+### Lab Projects (Learning by Doing) 
 
 #### [🏭 Industrial IoT Telemetry System]
 End-to-end IoT solution. Sensors capture data via **ESP32**, transmitted over MQTT to a hardened **Raspberry Pi** server running a Dockerized ingestion pipeline.
