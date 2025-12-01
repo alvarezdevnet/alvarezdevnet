@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">José Álvarez Domínguez</h1>
-<h3 align="center">SysAdmin | Network Security & Automation</h3>
+<h3 align="center">IT Systems & Network Technician | Python Automation</h3>
 
 <div align="center">
 
-I specialize in <b>Linux Systems</b>, <b>Network Security</b>, and <b>Python Automation</b>.
+Focused on <b>Linux Systems</b>, <b>Network Security</b>, and <b>Python Automation</b>.
 <br>
-I focus on deep troubleshooting and infrastructure reliability from day one.
+I apply a <b>DevOps mindset</b> to IT operations, combining deep troubleshooting with infrastructure reliability.
 <br><br>
 <i>"I don't just configure networks; I analyze, secure, and automate them."</i>
 
