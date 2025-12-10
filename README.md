@@ -26,7 +26,11 @@ I apply a <b>DevOps mindset</b> to IT operations, combining deep troubleshooting
 | **Core Networking** | **Cisco IOS** (Routing & Switching), VLANs, STP, Subnetting, NAT/PAT                                   |
 | **Automation** | **Python** (Netmiko, Requests), Bash Scripting, Automating routine admin tasks                         |
 | **Infrastructure** | **Linux** (Ubuntu Server, RHEL-based), **Docker** (Containerization), Raspberry Pi Clusters            |
+<<<<<<< HEAD
 | **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub                                 |
+=======
+| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub                         |
+>>>>>>> b05ca2c7ee43be2eb6babdd4bd29e0a7d7f2a87a
 
 ---
 
