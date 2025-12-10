@@ -26,11 +26,7 @@ I apply a <b>DevOps mindset</b> to IT operations, combining deep troubleshooting
 | **Core Networking** | **Cisco IOS** (Routing & Switching), VLANs, STP, Subnetting, NAT/PAT                                   |
 | **Automation** | **Python** (Netmiko, Requests), Bash Scripting, Automating routine admin tasks                         |
 | **Infrastructure** | **Linux** (Ubuntu Server, RHEL-based), **Docker** (Containerization), Raspberry Pi Clusters            |
-<<<<<<< HEAD
-| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub                                 |
-=======
-| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub                         |
->>>>>>> b05ca2c7ee43be2eb6babdd4bd29e0a7d7f2a87a
+| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebook, Git/GitHub                                 |        |
 
 ---
 
@@ -48,13 +44,7 @@ Enterprise-grade DNS infrastructure replacing ISP tracking with a private, recur
 * **Architecture:** **Pi-hole** (Network-wide Sinkhole) <-> **Unbound** (Recursive Resolver + DNSSEC) <-> **Root Servers**.
 * **Tech Stack:** Docker Compose, Linux Networking (Static IPs), Security Hardening, DNS/DNSSEC protocols.
 
-#### [🏭 Industrial IoT Telemetry System]
-End-to-end IoT solution. Sensors capture data via **ESP32**, transmitted over MQTT to a hardened **Raspberry Pi** server running a Dockerized ingestion pipeline.
-* **Skills:** IoT Protocols, Linux Hardening, Python.
 
-#### [🐍 Python Network Automation]
-Scripts using **Netmiko** to interact with Cisco devices. Automates VLAN creation, config backups, and connectivity checks.
-* **Goal:** Moving from manual CLI typing to "Infrastructure as Code".
 
 ---
 
