@@ -29,18 +29,18 @@ Experienced in building resilient, monitored, and automated systems.
 
 ### Lab Projects (Learning by Doing)
 
-#### [🛡️ Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/alvarezdevnet/sovereign-vault)
+#### [Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/alvarezdevnet/sovereign-vault)
 **Status:** *Completed & Documented* - Automated hybrid backup infrastructure with **3-2-1 strategy** - Windows 11 → Syncthing → Raspberry Pi → Rclone Crypt → Google Drive  
 - **Impact:** Eliminated manual backup tasks, ensured encrypted offsite copies  
 - Docker Compose, Bash Automation, Cron Jobs, Zero-Knowledge Encryption
 
-#### [🔒 Privacy Shield (DNS Sovereignty & Ad-Blocking)](https://github.com/alvarezdevnet/privacy-shield)
+#### [Privacy Shield (DNS Sovereignty & Ad-Blocking)](https://github.com/alvarezdevnet/privacy-shield)
 **Status:** *Completed & Documented* - Enterprise-grade DNS infrastructure, replacing ISP tracking with private recursive resolver  
 - Pi-hole ↔ Unbound ↔ Root Servers  
 - **Impact:** Secured home network, blocked telemetry and ads at network level  
 - Docker Compose, Linux Networking, Security Hardening, DNS/DNSSEC
 
-#### [🤖 Cisco Lab Automation (Network Configuration & Audit)](https://github.com/alvarezdevnet/cisco-lab-automation)
+#### [Cisco Lab Automation (Network Configuration & Audit)](https://github.com/alvarezdevnet/cisco-lab-automation)
 **Status:** *Active Development*
 - Automated configuration and telemetry retrieval for Cisco IOS-XE devices.
 - Python Scripting → Netmiko → DevNet Sandbox / CML
@@ -51,10 +51,12 @@ Experienced in building resilient, monitored, and automated systems.
 
 ### Education & Certifications
 
-**Formal Education:** * SMR (Sistemas Microinformáticos y Redes) - Technician in Microcomputer Systems and Networks  
-  (Spain: **FP Grado Medio / EU EQF Level 4**; USA: **Vocational/Technical High School Diploma equivalent**) - In Progress
+**Formal Education:** **SMR** (Sistemas Microinformáticos y Redes) - Technician in Microcomputer Systems and Networks  
+  **EU EQF Level 4**
+  USA: **Vocational/Technical High School Diploma equivalent**) - In Progress
 
-**Certifications (most relevant first):** - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url)  
+**Certifications:** 
+- [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url)  
 - [CCNA: Introduction to Networks](https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url)  
 - [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/4ec1c7e6-e983-4cdf-aba6-a605b073d301/public_url)  
 - [Linux Essentials (LPI / Cisco)](https://www.credly.com/badges/b92a8db2-d296-4634-9416-7d4ba3aaebd5/public_url)  
