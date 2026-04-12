@@ -41,6 +41,16 @@ Focused on building resilient, monitored, and production-ready systems.
 
 ### Lab Projects (Infrastructure as Code & Security)
 
+#### [Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/alvarezdevnet/sovereign-vault)
+**Status:** *Completed & Documented*
+- Automated hybrid backup infrastructure with **3-2-1 strategy**: Local → Pi Storage → Encrypted Cloud Copy.
+- **Impact:** Ensured data integrity and zero-knowledge encryption for critical files.
+
+#### [Privacy Shield (DNS Sovereignty)](https://github.com/alvarezdevnet/privacy-shield)
+**Status:** *Completed & Documented*
+- Private recursive DNS resolver (Pi-hole + Unbound) to eliminate ISP tracking and ad-telemetry.
+- **Impact:** Network-wide security hardening and DNSSEC validation.
+  
 #### [HomeLab Monitor (Distributed Observability)](https://github.com/alvarezdevnet/homelab-observer)
 **Status:** *Active Development / Phase: Metrics Injection*
 - Enterprise-grade monitoring system for a hybrid environment (Raspberry Pi + Desktop + Laptop).
@@ -53,17 +63,6 @@ Focused on building resilient, monitored, and production-ready systems.
 - Automated configuration and telemetry retrieval for Cisco devices using Python and Netmiko.
 - **Impact:** Standardization of compliance checks and reduction of manual CLI intervention.
 - Python, Netmiko, RegEx, SSH Hardening.
-
-#### [Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/alvarezdevnet/sovereign-vault)
-**Status:** *Completed & Documented*
-- Automated hybrid backup infrastructure with **3-2-1 strategy**: Local → Pi Storage → Encrypted Cloud Copy.
-- **Impact:** Ensured data integrity and zero-knowledge encryption for critical files.
-
-#### [Privacy Shield (DNS Sovereignty)](https://github.com/alvarezdevnet/privacy-shield)
-**Status:** *Completed & Documented*
-- Private recursive DNS resolver (Pi-hole + Unbound) to eliminate ISP tracking and ad-telemetry.
-- **Impact:** Network-wide security hardening and DNSSEC validation.
-
 ---
 
 ### Education & Certifications
