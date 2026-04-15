@@ -67,9 +67,12 @@ Focused on building resilient, monitored, and production-ready systems.
 
 ### Education & Certifications
 
+### Education & Certifications
+
 **Formal Education:** **SMR** (Sistemas Microinformáticos y Redes) - **EU EQF Level 4** (In Progress)
 
 **Certifications:** 
+- [Fortinet NSE 3: Network Security Associate](https://www.credly.com/badges/7ce2f0db-39fb-4fad-95c0-d6ca9d670ea2/public_url)
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url)  
 - [CCNA: Introduction to Networks](https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url)  
 - [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/4ec1c7e6-e983-4cdf-aba6-a605b073d301/public_url)  
@@ -78,10 +81,9 @@ Focused on building resilient, monitored, and production-ready systems.
 - [Network Technician Career Path](https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url)
 
 **Languages:** Spanish (Native), English (B1 Intermediate - Technical proficiency)
-
 ---
 
 ### 🚀 Career Objective
 
-Looking for roles in **NOC**, **Junior SysAdmin**, or **IT Operations**.  
+Looking for roles in **NOC**, **Junior SysAdmin**, or **IT|OT Operations**.  
 I bring a **security-first mindset** and the ability to **automate repetitive tasks** to improve operational efficiency.
