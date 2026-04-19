@@ -51,18 +51,6 @@ Focused on building resilient, monitored, and production-ready systems.
 - Private recursive DNS resolver (Pi-hole + Unbound) to eliminate ISP tracking and ad-telemetry.
 - **Impact:** Network-wide security hardening and DNSSEC validation.
   
-#### [HomeLab Monitor (Distributed Observability)](https://github.com/alvarezdevnet/homelab-observer)
-**Status:** *Active Development / Phase: Metrics Injection*
-- Enterprise-grade monitoring system for a hybrid environment (Raspberry Pi + Desktop + Laptop).
-- **Stack:** Docker, Prometheus, Grafana.
-- **Impact:** Real-time telemetry and resource abstraction using environment variables for portable deployments.
-- Implements strict **Separation of Concerns** (Code vs. Persistence) and secure Git hygiene.
-
-#### [Cisco Lab Automation (Network Audit & IaC)](https://github.com/alvarezdevnet/cisco-lab-automation)
-**Status:** *Active Development*
-- Automated configuration and telemetry retrieval for Cisco devices using Python and Netmiko.
-- **Impact:** Standardization of compliance checks and reduction of manual CLI intervention.
-- Python, Netmiko, RegEx, SSH Hardening.
 ---
 
 ### Education & Certifications
