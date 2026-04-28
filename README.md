@@ -41,6 +41,11 @@ Focused on building resilient, monitored, and production-ready systems.
 
 ### Lab Projects (Infrastructure as Code & Security)
 
+#### [IoT Telemetry Pipeline (Zero Trust Architecture)](https://github.com/alvarezdevnet/pipeline-telemetria-mqtt)
+**Status:** *Completed & Documented*
+- Enterprise-grade IoT telemetry infrastructure (ESP32/MQTT/TLS) with full Edge-to-Cloud orchestration.
+- **Impact:** Implemented **Security-First** design using VLAN segmentation, Cloudflare Zero Trust, and time-series analytics (InfluxDB/Grafana).
+
 #### [Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/alvarezdevnet/sovereign-vault)
 **Status:** *Completed & Documented*
 - Automated hybrid backup infrastructure with **3-2-1 strategy**: Local → Pi Storage → Encrypted Cloud Copy.
@@ -50,7 +55,7 @@ Focused on building resilient, monitored, and production-ready systems.
 **Status:** *Completed & Documented*
 - Private recursive DNS resolver (Pi-hole + Unbound) to eliminate ISP tracking and ad-telemetry.
 - **Impact:** Network-wide security hardening and DNSSEC validation.
-  
+
 ---
 
 ### Education & Certifications
