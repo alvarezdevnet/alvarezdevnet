@@ -24,7 +24,7 @@
 I design, secure, and automate IT infrastructures using **Linux**, **Python**, and **Docker**.  
 Focused on building resilient, monitored, and production-ready systems.
 
-<b>GitHub:</b> <a href="https://github.com/alvarezops">alvarezops</a> | <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jadomin/">José Álvarez</a>
+<b>GitHub:</b> <a href="https://github.com/alvarezops">alvarezops</a> | <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/alvarezops/">José Álvarez</a>
 </div>
 
 ---
